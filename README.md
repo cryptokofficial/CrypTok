@@ -1,7 +1,7 @@
 # CrypTok™
 
 <p align="center">
-  <img src="https://cryptokapp.com/content/themes/default/images/logo.png" alt="CrypTok Logo" width="200"/>
+  <img src="https://cryptokapp.com/content/uploads/pwa/icon-512x512.png" alt="CrypTok Logo" width="200"/>
 </p>
 
 <p align="center">
